@@ -42,8 +42,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   };
 
-  const vaciar-carrito = document.getElementById("vaciar-carrito");
-  vaciar-carrito.addEventListener('click', () => {
+  const vaciarcarrito = document.getElementById("vaciarcarrito");
+  vaciarcarrito.addEventListener('click', () => {
     carrito = [];
     localStorage.removeItem('carrito');
     showCarrito();
