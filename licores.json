@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "nombre":"Ron La Hechicera",
+        "precio": 240,
+        "imagen": "img/Ron.png",
+        "cantidad":1
+    },
+    {
+        "id":2,
+        "nombre":"Ginebra Tanqueray London Dry",
+        "precio": 136,
+        "imagen": "img/Ginebra.png",
+        "cantidad":1
+    },
+    {
+        "id":3,
+        "nombre":"Vodka Absolute",
+        "precio": 98,
+        "imagen": "img/Vodka.png",
+        "cantidad":1
+    },
+    {
+        "id":4,
+        "nombre":"Aguardiente Antioqueño",
+        "precio": 53,
+        "imagen": "img/Aguardiente.png",
+        "cantidad":1
+    },
+    {
+        "id":5,
+        "nombre":"Pisco Tabernero La Botija Quebranta",
+        "precio": 103,
+        "imagen": "img/Pisco.png",
+        "cantidad":1
+    },
+    {
+        "id":6,
+        "nombre":"Aperitivo Aperol",
+        "precio": 105,
+        "imagen": "img/Aperol.png",
+        "cantidad":1
+    }
+]
